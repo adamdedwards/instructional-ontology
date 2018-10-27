@@ -1,0 +1,10 @@
+# COURSE
+
+## properties
+
+##relations
+
+1. a COURSE must be composed of one or more DOCUMENTS
+2. a COURSE must be associated with one or more INSTRUCTORS
+3. a COURSE must be associated with one or more STUDENTS
+4. a COURSE must be associated with one or more INSTITUTIONS

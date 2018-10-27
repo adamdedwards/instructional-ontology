@@ -1,0 +1,7 @@
+# INSTRUCTOR
+
+## properties
+
+## relations
+
+1. an INSTRUCTOR may be associated with one or more COURSES

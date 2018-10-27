@@ -1,0 +1,14 @@
+# DOCUMENT
+
+## categories
+
+1. SYLLABUS
+2. ASSESSMENT
+3. GRADE
+
+## properties
+
+## relations
+
+1. a DOCUMENT may be a part of a COURSE
+2. a SYLLABUS is a DOCUMENT that describes a single COURSE

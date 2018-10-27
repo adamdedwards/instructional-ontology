@@ -1,0 +1,8 @@
+# STUDENT
+
+## properties
+
+## relations
+
+1. a STUDENT may be associated with one or more COURSES
+2. a STUDENT must be associated with exactly one GRADE for each ASSESSMENT that composes each COURSE associated with the STUDENT
